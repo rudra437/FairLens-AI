@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+dist/
+.eslintcache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables (Crucial!)
+.env
+.env.local
+.env.*.local
+
+# Project specific
+test_data.csv
+backend/sample_dataset.csv
