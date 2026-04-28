@@ -55,7 +55,7 @@ npm run dev
 
 ## 🧪 How to Test the Demo
 1. Open the web app and click **Continue with Google Firebase**.
-2. Under Data Ingestion, upload the `test_data.csv` (located in the root folder).
+2. Under Data Ingestion, upload the `sample_dataset.csv` (located in the root folder).
 3. Set the configurations:
    * **Target Outcome Column:** `loan_approved`
    * **Protected Attribute:** `gender`
